@@ -1,1 +1,11 @@
 # CS250
+
+## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs begins with active listening, asking clarifying questions, and putting myself in the shoes of the end-user. It’s important to identify what problems users are facing and what outcomes they desire. One effective method for capturing this understanding is through the creation of user stories. A user story describes a feature from the user's perspective, focusing on what they want to accomplish and why. This format helps prioritize features based on value and ensures that development aligns with user expectations. By translating these needs into clear and actionable tasks, I can build programs that are more intuitive and valuable to users.
+
+## How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+When developing programs, I follow a structured yet flexible approach. I start by breaking down the problem, creating diagrams or pseudocode, and identifying what tools or technologies I’ll need. I also aim to write modular code that is easy to test and maintain. In the future, I hope to incorporate more Agile practices, especially iterative development, regular standups, and sprint planning. I believe Agile helps teams remain adaptable and encourages continuous feedback, which is vital for producing high-quality software that meets user needs. I also find value in retrospectives to identify what worked well and what can be improved in future iterations.
+
+## What does it mean to be a good team member in software development?
+Being a good team member means more than just writing clean code. It involves effective communication, collaboration, and reliability. A good team member shares knowledge, listens actively, supports others, and respects different perspectives. They also take initiative, are open to feedback, and adapt to the team’s workflow. In software development, teamwork is crucial because projects often require diverse skills and viewpoints. Trust and mutual support within the team lead to better solutions, quicker problem-solving, and a more enjoyable development process.
+
